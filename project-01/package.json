@@ -1,0 +1,18 @@
+{
+  "name": "project-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ganache-cli": "^6.1.4",
+    "mocha": "^5.2.0",
+    "solc": "^0.4.24",
+    "web3": "file:web3.js",
+    "websocket": "file:WebSocket-Node"
+  }
+}
