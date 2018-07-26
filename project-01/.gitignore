@@ -1,0 +1,11 @@
+logs
+*.log
+npm-debug.log*
+public
+node_modules
+.npm
+build
+localhost
+.tmp
+*.bak
+
